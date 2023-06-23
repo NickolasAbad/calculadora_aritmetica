@@ -1,0 +1,13 @@
+Calculadora Artimética
+
+- Possuir um campo de tipo select com as 4 operacoes aritmeticas
+    - Soma
+    - Subtracao
+    - Multiplicacao
+    - Divisao
+
+Conter dois campos para inserir os numeros
+    - Apenas numeros racionais
+    - Usuário não precisará clicar em nenhum botão para a operacao ser realizada
+
+
